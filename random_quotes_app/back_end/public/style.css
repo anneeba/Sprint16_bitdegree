@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div button {
+    width: 15%;
+    margin: 5px 0px;
+    padding: 5px;
+    border: 2px solid rgb(27, 26, 26);
+    border-radius: 7px;
+    box-shadow: 2px 5px 5px grey;
+}
+#click_button {
+    width: 15%;
+    margin: 5px 0px;
+    padding: 5px;
+    border: 2px solid rgb(27, 26, 26);
+    border-radius: 7px;
+    box-shadow: 2px 5px 5px grey;
+}
